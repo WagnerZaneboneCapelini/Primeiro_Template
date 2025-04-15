@@ -1,1 +1,1 @@
-::: src.snap_package_template
+::: src.primeiro_template
